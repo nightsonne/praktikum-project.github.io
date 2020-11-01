@@ -6,12 +6,12 @@
 - GIT и GitHub,
 - регулярными выражениями для валидации формы
 
-####Версия проекта:
+#### Версия проекта:
 1.0
 
-####Автор:
+#### Автор:
 Татьяна Лунькова 
 
-####Ссылки:
+#### Ссылки:
 [Оформление readmi.md] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :octocat:
 [Самый лучший курс для обучения webdev тут](https://praktikum.yandex.ru/)
